@@ -44,25 +44,25 @@ Bootcamp süresince derslerin işlenişi, ödevler, geribildirimler, duyurular v
 
 ## İçindekiler
 
-1.	Hafta	3
-1.	Front-End Developer kimdir?	4
-2.	Piksel Perfect nedir?	4
-3.	Front-End Developer’ın öne çıkan kısmı nedir? Herkes web sitesi kurabiliyorsa (!) Front-End Developer’a neden ihtiyaç duyarız?	4
-4.	Google’lamak Konusu	4
-5.	Front-End Developer’ın iletişiminin neden kuvvetli olması gerekiyor?	5
-6.	İngilizce neden önemli?	5
-7.	Büyük Bölünme Konusu	5
-8.	Akıllı telefon, front-end tarafında responsive tasarım dışında başka neyi zorlaştırmış olabilir?	6
-9.	Animasyon Konusu	7
-10.	JavaScript Konusu	7
-11.	NodeJS Konusu	7
-12.	Front-End’in kolu daha ne kadar uzamış olabilir?	8
-13.	Erişilebilirlik Konusu	8
-14.	Front-End Alanında Yaygın Olarak Kullanılan Frameworkler	8
-15.	jQuery Konusu	8
-16.	Web Components nedir?	9
-17.	Jamstack Nedir?	9
-18.	Yararlı Linkler / Kaynaklar:	10
+1.	Hafta	
+1.	Front-End Developer kimdir?	
+2.	Piksel Perfect nedir?	
+3.	Front-End Developer’ın öne çıkan kısmı nedir? Herkes web sitesi kurabiliyorsa (!) Front-End Developer’a neden ihtiyaç duyarız?	
+4.	Google’lamak Konusu	
+5.	Front-End Developer’ın iletişiminin neden kuvvetli olması gerekiyor?	
+6.	İngilizce neden önemli?	
+7.	Büyük Bölünme Konusu	
+8.	Akıllı telefon, front-end tarafında responsive tasarım dışında başka neyi zorlaştırmış olabilir?	
+9.	Animasyon Konusu	
+10.	JavaScript Konusu	
+11.	NodeJS Konusu	
+12.	Front-End’in kolu daha ne kadar uzamış olabilir?	
+13.	Erişilebilirlik Konusu	
+14.	Front-End Alanında Yaygın Olarak Kullanılan Frameworkler	
+15.	jQuery Konusu	
+16.	Web Components nedir?	
+17.	Jamstack Nedir?	
+18.	Yararlı Linkler / Kaynaklar:	
 
 
  
