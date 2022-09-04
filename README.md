@@ -4,21 +4,21 @@
 
 Merhaba ben İsa Sarı. Patika.dev ve Protein tarafından organize edilen Vue.js Bootcamp’ine teknik test ve mülakat sürecinden sonra kabul aldım. Bootcampi düzenleyen Patika.dev ve Protein ekibine teşekkür ederim. Bu doküman serisinde, bu bootcamp boyunca derslerden aldığım notlarımı paylaşacağım. Bu dokümanda bootcampte aldığım notların yanı sıra kendi yaptığım eklemeler de yer alacak. Dokümanda karşılaşılabilecek yanlışlıklar veya eksiklikler tamamen bana aittir. Geribildirim için iletişim kurmaktan çekinmeyin. Mail adresim: dev.isasari@yandex.com. Eğitmenimiz Tolga Eğilmezel. Bootcamp 7 hafta sürecek. Bootcamp’te işlenecek ana konu başlıkları şunlardır:
 
-1.	Hafta
-1.1.	Front-End Developer ve Front-End Development
+1.	Hafta <br>
+1.1.	Front-End Developer ve Front-End Development <br>
 1.2.	JavaScript Temel Bilgiler
 
-2.	Hafta
-2.1.	Vue.js Nedir? 
-2.2.	Component Nedir?
-2.3.	CSS Stiller
-2.4.	Props  
+2.	Hafta <br>
+2.1.	Vue.js Nedir? <br>
+2.2.	Component Nedir? <br>
+2.3.	CSS Stiller <br>
+2.4.	Props  <br>
 
-3.	Hafta
-3.1.	Handling Events
-3.2.	If Else
-3.3.	Döngüler
-3.4.	Reactivity
+3.	Hafta <br>
+3.1.	Handling Events <br>
+3.2.	If Else<br>
+3.3.	Döngüler<br>
+3.4.	Reactivity<br>
 
 4.	Hafta
 4.1.	Computed Properties
