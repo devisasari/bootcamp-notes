@@ -69,14 +69,13 @@ Bootcamp süresince derslerin işlenişi, ödevler, geribildirimler, duyurular v
 ### 1.	Front-End Developer kimdir?
 
 Tasarlanan projeyi, hedef kitlenin kullanabileceği şekilde etkileşimli bir hale getiren kişiye Front-End Developer denir. 
-<br>
-<br>
+
 Front-End Developer, etkileşim tasarımı yapar. Örneğin bir menüye tıklanıldığı zaman o menünün görülmesi, bir form gönderildiyse o formun gönderildiğini bildirmek, bir ürünü sepete ekle kısmına basıldığında o ürünü sepete eklemek gibi etkileşimlerin tasarımından Front-End Developer sorumludur.
-<br>
-<br>
+
 “Front-end development vazgeçilmezdir çünkü harika ürünler bile kötü kullanıcı arayüzleri yüzünden hayal kırıklığına uğrayabilir. Yazılım ürünlerinin ve web sitelerinin kullanıcı arayüzünü kullanılabilir ve çekici hale getirmek Front-End Developer’ın işidir. Front-End Developer, modern işletmeler için çok önemlidir. Çekici ve işlevsel bir web sitesi olmadan, potansiyel müşteriler başka bir yere bakacaktır. Dahası, kötü sunulan ve kullanımı zor bir uygulama, mevcut müşterilerin daha az işlevsellik sunsa bile daha ilgi çekici ise rakibin uygulamasını kullanmalarına neden olacaktır. Bunun dışında, iyi sunulan bir web sitesi veya uygulama güven yaratacaktır.” (Bu paragraf, Dominic Myers’in Front-End Developer isimli kitabından alıntıdır).
 
 Front-End Developer olmak için detaylı bir yol haritası şurada yer almakta: https://roadmap.sh/frontend
+
 Patika.dev’den ise Front-End Development patikalarını takip ederek kendinizi geliştirebilirsiniz: https://app.patika.dev/paths
 
 ### 2.	Piksel Perfect nedir?
@@ -94,8 +93,11 @@ Google’da arama yapıp doğru kaynaklara, dokümantasyonlara ulaşıp çözüm
 ### 5.	Front-End Developer’ın iletişiminin neden kuvvetli olması gerekiyor?
 
 Front-End Developer birçok departmanla çalışıyor. 
+
 Responsive websiteleri yapıyoruz, yani bir ekran birden fazla çözünürlükte çalışabiliyor. Bu noktada tasarımcı bize bir buton verdiğinde, bu butonu alıp koymak doğru ancak bu tablete geldiği zaman, mobile geldiği zaman nasıl bir aksiyonu olacak, kullanıcılar bununla etkileşime geçebilecek mi, tıklayabilecek mi gibi gibi konuları öngörmek ve bunu bildirmek önemli.
+
 API’dan gelen verilerle kullanıcıya doğru mesajı göstermek gerekiyor. Örneğin, sepete tıkla butonuna tıkladınız hiçbir şey olmadı, neden? Belki işte o anda arkaplanda sistemsel bir sorun oldu, belki stok bitti, x oldu y oldu hiç fark etmez, Back-End Developer’la iletişime geçip “kullanıcı bir ürünü sepete ekleyemediği zaman kullanıcıya x kodunu dön ki ben de kullanıcıya bunun olmadığı bilgisini vereyim ya da anlık olarak bir sorun olduğunu kullanıcıya bir popup vs gibi bir şeyle bildireyim ki kullanıcı orada sadece boş boş tıklıyor olmasın” demek aslında çok önemli.
+
 Front-End Developer merkez bir yerde. Tasarımcıyla, Back-End Developer’la birlikte çalışıyor. Bir taraf dokümante ediyor bir taraftan veriler akıyor, Front-End Developer’ın bunları kullanıcıya sorunsuz bir şekilde ulaştırması gerekiyor. 
 
 ### 6.	İngilizce neden önemli?
@@ -105,17 +107,25 @@ Kullandığımız dil ingilizce zaten çünkü HTML, CSS ve JavaScript’te İng
 ### 7.	Büyük Bölünme Konusu
 
 Eskiden yaygın olarak kullanılan sadece bir tane tarayıcı vardı o da Internet Explorer’dı (1995). Daha sonra yaygın olarak kullanılmaya başlanacak olan Firefox (2002) hayatımıza girdi. Firefox birtakım özellikler getirdi. Bu özellikler Internet Explorer’ın desteklemediği özelliklerdi. Örneğin, bir pencereye dropshadow koymak ya da bazı JavaScript fonksiyonlarını desteklemek. Bunları Internet Explorer yapmadığı için herkes bir anda Firefox’la geliştirme yapmaya başladı ama Internet Explorer kullanıcısı da vardı. Bu ikisi için web sitesi geliştirmek isterseniz iki kere kod yazmanız gerekiyordu. Zaman içinde bir de yaygın olarak kullanılmaya başlanacak olan Chrome (2008) çıktı ortaya. Böylece yaygın olarak kullanılan üç tane büyük tarayıcı olmuş oldu. Günümüze geldiğimizde ise tarayıcıların sayıları gittikçe artmış durumda. Tarayıcı farklılığından kaynaklanan iş yükü çok arttığı için “front-end” diye bir dal yapalım arayüzle uğraşsın dediler bu kişiler.
+
 Daha sonra işler biraz daha karışmaya başladı. Mobile geldi. Cep telefonları patladı. Cep telefonları popüler oldukça insanlar mobille daha çok site ziyaret etmeye başladı desktopa kıyasla. Bunun da getirisi şu oldu: Back-End Developer kendi özelinde ayrılıp database, veritabanları, sunucu işlemleri konusunda uzman olmasını getirdi. Böylelikle ayrım olmuş oldu. 
+
 Böylece Back-End Developer, siteye gelen yoğun ziyaretçi akınını handle edicek, veri akışı sağlayacak, sunuculardaki performanslı algoritmaları yazacak kesimi oluşturdu. 
+
 Front-End Developer da, bu kadar kullanıcının her ortamdan yani hem mobile’den hem masaüstünden, hem tabletlerden başka cihazlardan kolaylıkla siteyi gezmesi için uzmanlaştığı bir dal olmuş oldu. 
+
 Dünya nüfusunun yarısının elinde akıllı telefon var. Bu durum responsive tasarımı oldukça önemli bir hale getirdi. Sadece tarayıcı farklılığı desteği değil, bir ekranın her cihazda stabil olmasını sağlamak ekstra ekstra bir güç haline geldi. İphoneların ekran çözünürlüğü farklı androidlerin binlerce ekran çözünürlüğü var, tabletler masaüstleri var. O yüzden bu responsive çok önemli bir hale geldi zaman içerisinde. 
 
 ### 8.	Akıllı telefon, front-end tarafında responsive tasarım dışında başka neyi zorlaştırmış olabilir?
 
 Yazdığımız JavaScript kodları, tarayıcı tarafından derleniyor. Bundan dolayı, telefonun özelliği ne kadar düşük olursa (işlemcisi, RAM’i vs.) sizin yazdığınız kodların çıktısını alması o kadar uzun sürüyor, yani ekranda kodların görülmesi. İşte bu noktada işlemciler de ramlerde bizim işimizin içine girmiş oluyor. Yazdığımız kodları optimize yazmanın önemi burada ortaya çıkıyor. Yani ne kadar kolay derlenebilir kod yazarsak web sitesi o kadar hızlı çalışıyor. 
+
 Ayrıca, mobilede ve tablette fareyi ve klavyeyi değil parmağımızı kullanıyoruz. Bundan dolayı parmak özelinde değişen tasarımlar da var. Örneğin çoğu sitede menü yoktur, hamburger menü vardır. Neden aslında mobilde kullanımı daha kolaydır. Yani sadece tasarım değişmiyor, yapısal değişiklik de var. O menü kayboluyor bambaşka bir menü geliyor. O buton yok oluyor bambaşka bir yapıda sticky (yapışık) bir form geliyor. 
+
 Bunlardan dolayı, front-end’in işyükü inanılmaz arttı. Çünkü tasarımı ekranda stabil bir şekilde çalıştırmak gerekiyor, bir yandan da çok kod yazmamak ya da optimize kod yazmak lazım ki her telefonda site açılabilsin ve performanslı çalışsın. 
+
 Biz şu anda Vue yazıcaz, Vue JavaScript demek zaten. Dolayısıyla Vue dediğimiz şey tarayıcıda çalışan bir şey. Eski bir bilgisayar kullanıyorsanız sizde site çok yavaştır, yeni bilgisayar kullanıyorsanız site sizde çok hızlıdır. Bunun Database’den veri gelmesi ya da tasarımın karmaşık olmasıyla alakası yok. Tamamen yazdığınız kodların tarayıcı üzerinde derlenmesiyle alakalı. Bu çok önemli bir kriter. Özellikle bu frameworklerle çalışıyorsanız. 
+
 Örneğin, Amazon’da yüzde birlik bir yavaşlama ki bu 100 milisaniyelik bir yavaşlamaya denk geliyor; 1.6 milyar dolar zarara mal olabiliyor. Çünkü insanlar yavaş bir site yerine hızlı bir siteye gitmeyi tercih ediyorlar. Bundan dolayı, Front-End’de sorumluluk iyice artıyor. 
 
 ### 9.	Animasyon Konusu
@@ -133,7 +143,9 @@ JavaScript dediğimiz şey salt bir metin dosyası, txt dosyası. Normal şartla
 ### 12.	Front-End’in kolu daha ne kadar uzamış olabilir? 
 
 Masaüstü uygulaması yazabiliyoruz (bundan dolayı, front-end’in kolu masaüstü uygulamalarına kadar uzamış durumda). HTML, CSS ve JavaScriptle yazılmış birçok masaüstü uygulaması var. Bunların içerisinde özellikle “Slack” ve “VS Code” masaüstü uygulamaları HTML, CSS ve JavaScript’le yazılmıştır. 
+
 React Native’in yaptığı şey mobil uygulama çıkarmak. 
+
 İşte Front-End aslında böyle dallandı dallandı büyüdü, televizyonlara kadar girdi. Televizyonların içerisindeki netflix uygulamasında bile HTML, CSS, JavaScripten oluşan bir yapı var. Hatta netflixteki filmlerin dizilerin kapak görselleri AVF teknolojisi denilen bir teknolojiyle yapılıyor. AVF teknolojisi, tarayıcılara yeni gelen bir özellik. Yani o netflixte gördüğünüz dizi film kapakları web teknolojisiyle gelen kısımlar. Bunun gibi birçok web teknolojisi var. (bu arada şunu söyleyeyim Netflix, Airbnb, Spotify’ın engineering bloglarını sayfalarını takip edin, çünkü oradaki tüm teknolojiler bizim web’e yön veriyor.
 
 ### 13.	Erişilebilirlik Konusu
@@ -154,7 +166,9 @@ Web Components şudur: bugün kullandığımız React, Vue, Angular’ın native
 ### 17.	Jamstack Nedir?
 
 Jam’in açılımı şudur: JavaScript API Markup bu üç kelimenin baş harflerinden “jam”i oluşturmuşlar. Stack de bildiğimiz stack. Mesela bir firmanın kullandığı teknolojilerin tümüne tech stack denir. 
+
 Şimdi bu Jamstack nasıl çıktı onu söyleyeyim: ilk başta bugün bir React, Angular veya Vue kütüphanesiyle yazdığımız bir projenin aslında hiçbir HTML çıktısı olmuyor. Yani tamamen JavaScript üzerinde yazdığımız için bunları, tamamen tarayıcı üzerinde derlenerekten o örüntü tarayıcıda yansımış oluyor ama içeriğine baktığımız zaman bomboş bir index.html dosyası görürüz. Şimdi Google da arama sonuçlarını listelerken şunu yapıyor; ben senin index.html dosyana girerim bakarım ne varsa onları indexlerim diyor. Örneğin bir websitemiz olduğunu düşünün kodluyoruz diyelim. Google robotu kodluyoruzun sitesinde girdiği zaman arayüze bakmaz, kodlarına bakar ve der ki sayfa içerisinde metinler var mı, ne var işte kodluyoruz var ekip var bootcamp var, bunları indexlerim der. Ama React, Vue, Angular ile yaptığımız projelerde bunların hiçbirisinin çıktısı o HTML’de olmaz. Bunların hepsi JavaScriptle oluştuğu için Google da şunu diyor: ya benim zamanım çok değerli, ben oturup sizin JavaScript kodlarınızı derleyemem, o yüzden index.html in içerisinde ne varsa ben onu alırım, gerisine karışmam diyor. Eğer index.html in içerisinde hiçbir şey yoksa ben senin sayfanı indekslemem der. Çünkü Google her gün milyonlarca websitesini tarıyor her gün ve bu milyonlarca websitesinin içinde JavaScriptleri çalıştırması ya da bunları render etmesi ayrı bir maliyet ve bu maliyete girmemek için aslında sadece index.html kısmına bakıyor. HTML kısmına bakıyor dediğimiz şey bildiğimiz siteye gidin kaynağı görüntüle diyin orda ne çıkarsa ben onu indekslerim diyor. Durum böyle olunca ve bu frameworkler de çok popüler olunca (React, Vue, Angular gibi), buna bir alternatif üretildi. İşte bu alternatif Jamstack’tir. İşte bu yüzden, Jamstack çıktı. Jamstack’in yaptığı aslında çok basit, sizin JavaScriptle yazıp ortaya çıkardığınız o dosyayı o görüntüyü HTML olarak kaydediyor. Yani baya bildiğimiz 20 sene önceki gibi her sayfanın bir HTML’i var. Ana sayfanız mı var, index.html, hakkınızda sayfanız mı var about-us.html, iletişim sayfanız mı var contact.html şeklinde ve hepsinin çıktısını verdiği için Google diyor ki bu sefer aa evet bunların çıktısı var ve ben bu HTML’i görebiliyorum diyor. Yani JavaScript aslında tamamen ortadan kalkmış oluyor. JavaScript sadece sizin geliştirme ortamınızda var. Siz yine JavaScript yazıyorsunuz, React yazıyorsunuz, HTML’leri oradan oluşturuyorsunuz ama bu Jamstack teknolojisiyle aslında JavaScriptler derlenip HTML olarak çıkmış oluyor ve Google’a uyumlu hale ancak böyle gelebiliyor. Onun dışında React, Vue, Angular kesinlikle SEO (Search Engine Optimization-Arama Motoru Optimizasyonu) uyumlu değildir. Bunun için mutlaka bir teknoloji kullanılması gerekiyor Jamstack gibi. Bu arada Jamstack bir teknoloji değil, bir metodoloji, sadece bu sistemi biraraya getiren bir ekosistem aslında öyle diyebilirim. Yani React’ta yazdığınız şeyin HTML çıktısını almanıza veya Vue’da yazdığınız şeyin HTML çıktısını almanıza yardımcı olan bir yapı. Belki duymuşsunuzdur; next.js, nuxt.js, gatsby. Bu teknolojiler işte Jamstack teknolojileridir. Bunların yaptığı şey React’la yaptığınız şeyleri tamamen HTML’e dökmek için olan teknolojiler. Ayrıca bu Jamstack teknolojilerinin şöyle güzel bir avantajı var: bu teknolojilerin çıktısı HTML olduğu için JavaScript derlemesi gerekmiyor, bundan dolayı siteler, telefonlarda işlemcisi ve RAM’i düşük cihazlarda daha stabil ve daha performanslı çalışıyor böylece.
+
 Not: Jamstack’e ilgi duyuyorsanız Jamstack.istanbul’u takip etmenizi öneririm.
 
 ### 18.	Yararlı Linkler / Kaynaklar
