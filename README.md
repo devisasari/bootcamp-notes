@@ -154,16 +154,16 @@ Not: Jamstack’e ilgi duyuyorsanız Jamstack.istanbul’u takip etmenizi öneri
 
 ### 18.	Yararlı Linkler / Kaynaklar:
 
-https://www.awwwards.com/
-https://Jamstack.istanbul/
-https://www.11ty.dev/
-https://www.smashingmagazine.com/
-https://css-tricks.com/
-https://speckyboy.com/
-https://tympanus.net/codrops/
-https://dev.to/
-https://dev.to/devdevcharlie
-https://hashnode.com/
-https://vitejs.dev/
+https://www.awwwards.com/ <br>
+https://Jamstack.istanbul/ <br>
+https://www.11ty.dev/ <br>
+https://www.smashingmagazine.com/ <br>
+https://css-tricks.com/ <br>
+https://speckyboy.com/ <br>
+https://tympanus.net/codrops/ <br>
+https://dev.to/ <br>
+https://dev.to/devdevcharlie <br>
+https://hashnode.com/ <br>
+https://vitejs.dev/ <br>
 
 
