@@ -68,11 +68,14 @@ Bootcamp süresince derslerin işlenişi, ödevler, geribildirimler, duyurular v
  
 ### 1.	Front-End Developer kimdir?
 
-Tasarlanan projeyi, hedef kitlenin kullanabileceği şekilde etkileşimli bir hale getiren kişiye Front-End Developer denir. <br>
+Tasarlanan projeyi, hedef kitlenin kullanabileceği şekilde etkileşimli bir hale getiren kişiye Front-End Developer denir. 
+<br>
 <br>
 Front-End Developer, etkileşim tasarımı yapar. Örneğin bir menüye tıklanıldığı zaman o menünün görülmesi, bir form gönderildiyse o formun gönderildiğini bildirmek, bir ürünü sepete ekle kısmına basıldığında o ürünü sepete eklemek gibi etkileşimlerin tasarımından Front-End Developer sorumludur.
 <br>
+<br>
 “Front-end development vazgeçilmezdir çünkü harika ürünler bile kötü kullanıcı arayüzleri yüzünden hayal kırıklığına uğrayabilir. Yazılım ürünlerinin ve web sitelerinin kullanıcı arayüzünü kullanılabilir ve çekici hale getirmek Front-End Developer’ın işidir. Front-End Developer, modern işletmeler için çok önemlidir. Çekici ve işlevsel bir web sitesi olmadan, potansiyel müşteriler başka bir yere bakacaktır. Dahası, kötü sunulan ve kullanımı zor bir uygulama, mevcut müşterilerin daha az işlevsellik sunsa bile daha ilgi çekici ise rakibin uygulamasını kullanmalarına neden olacaktır. Bunun dışında, iyi sunulan bir web sitesi veya uygulama güven yaratacaktır.” (Bu paragraf, Dominic Myers’in Front-End Developer isimli kitabından alıntıdır).
+
 Front-End Developer olmak için detaylı bir yol haritası şurada yer almakta: https://roadmap.sh/frontend
 Patika.dev’den ise Front-End Development patikalarını takip ederek kendinizi geliştirebilirsiniz: https://app.patika.dev/paths
 
