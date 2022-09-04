@@ -1,4 +1,4 @@
-# Protein & Patika.dev-Vue.js Bootcamp Notlarım
+# Protein & Patika.dev Vue.js Bootcamp Notlarım
 
 ## Giriş
 
