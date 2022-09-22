@@ -188,8 +188,10 @@ https://vitejs.dev/ <br>
 
 # 2. HAFTA
 
-İçindekiler
+## İçindekiler
+
 1.	Giriş	1
+
 2.	JavaScript - Fonksiyonlar	3
 
 2.1.	Fonksiyon nedir?	3
@@ -221,9 +223,14 @@ https://vitejs.dev/ <br>
 2.14.	Fonksiyonlar Konusunun Devamı	23
 
 3.	JavaScript’te Diğer Konular	23
+
 4.	GIT Versiyon Kontrol Sistemi Nedir?	24
+
 5.	Chrome DevTools nedir?	24
+
 6.	ViteJS nedir?	25
+
 7.	Vue.js’e Giriş	25
+
 8.	Yararlı Linkler / Kaynaklar	26
 
