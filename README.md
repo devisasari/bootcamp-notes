@@ -190,47 +190,47 @@ https://vitejs.dev/ <br>
 
 ## İçindekiler
 
-1.	Giriş	1
+1.	Giriş	
 
-2.	JavaScript - Fonksiyonlar	3
+2.	JavaScript - Fonksiyonlar	
 
-2.1.	Fonksiyon nedir?	3
+2.1.	Fonksiyon nedir?	
 
-2.2.	“Klasik Fonksiyon”un Yapısı	3
+2.2.	“Klasik Fonksiyon”un Yapısı	
 
-2.3.	Nasıl “Klasik Fonksiyon” Oluştururuz?	4
+2.3.	Nasıl “Klasik Fonksiyon” Oluştururuz?	
 
-2.4.	Fonksiyon İsmi Nasıl Belirlenmeli?	5
+2.4.	Fonksiyon İsmi Nasıl Belirlenmeli?	
 
-2.5.	Fonksiyon Nasıl Çağrılır?	5
+2.5.	Fonksiyon Nasıl Çağrılır?	
 
-2.6.	Fonksiyona “return” Eklemek	6
+2.6.	Fonksiyona “return” Eklemek	
 
-2.7.	Parametre ve Argüman Nedir?	6
+2.7.	Parametre ve Argüman Nedir?	
 
-2.8.	Parametreler ve Argümanlarla İlgili Detaylı Bilgiler	9
+2.8.	Parametreler ve Argümanlarla İlgili Detaylı Bilgiler	
 
-2.9.	Fonksiyonun İçinde Fonksiyon Oluşturmak	13
+2.9.	Fonksiyonun İçinde Fonksiyon Oluşturmak	
 
-2.10.	Klasik Anonim Fonksiyon Yapısı	14
+2.10.	Klasik Anonim Fonksiyon Yapısı	
 
-2.11.	Anonim Fonksiyon ve Normal Fonksiyon Arasındaki Farklar	16
+2.11.	Anonim Fonksiyon ve Normal Fonksiyon Arasındaki Farklar	
 
-2.12.	Modern Fonksiyon Yapısı (Arrow Fonksiyon)	18
+2.12.	Modern Fonksiyon Yapısı (Arrow Fonksiyon)	
 
-2.13.	Fonksiyonun Çalıştırılma Zamanı Nasıl Ayarlanır?	22
+2.13.	Fonksiyonun Çalıştırılma Zamanı Nasıl Ayarlanır?	
 
-2.14.	Fonksiyonlar Konusunun Devamı	23
+2.14.	Fonksiyonlar Konusunun Devamı
 
-3.	JavaScript’te Diğer Konular	23
+3.	JavaScript’te Diğer Konular	
 
-4.	GIT Versiyon Kontrol Sistemi Nedir?	24
+4.	GIT Versiyon Kontrol Sistemi Nedir?	
 
-5.	Chrome DevTools nedir?	24
+5.	Chrome DevTools nedir?	
 
-6.	ViteJS nedir?	25
+6.	ViteJS nedir?	
 
-7.	Vue.js’e Giriş	25
+7.	Vue.js’e Giriş	
 
-8.	Yararlı Linkler / Kaynaklar	26
+8.	Yararlı Linkler / Kaynaklar	
 
