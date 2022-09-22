@@ -40,7 +40,7 @@ Merhaba ben İsa Sarı. Patika.dev ve Protein tarafından organize edilen Vue.js
 
 Bootcamp süresince derslerin işlenişi, ödevler, geribildirimler, duyurular ve iletişim için Eduflow, Github Classrom, Google Dokümanlar, Discord, Telegram, Google Meet ve daha birçok aracı kullanacağız. 
 
-# 1.	Hafta
+# 1.	HAFTA
 
 ## İçindekiler
 
@@ -185,4 +185,30 @@ https://dev.to/devdevcharlie <br>
 https://hashnode.com/ <br>
 https://vitejs.dev/ <br>
 
+
+# 2. HAFTA
+
+İçindekiler
+1.	Giriş	1
+2.	JavaScript - Fonksiyonlar	3
+2.1.	Fonksiyon nedir?	3
+2.2.	“Klasik Fonksiyon”un Yapısı	3
+2.3.	Nasıl “Klasik Fonksiyon” Oluştururuz?	4
+2.4.	Fonksiyon İsmi Nasıl Belirlenmeli?	5
+2.5.	Fonksiyon Nasıl Çağrılır?	5
+2.6.	Fonksiyona “return” Eklemek	6
+2.7.	Parametre ve Argüman Nedir?	6
+2.8.	Parametreler ve Argümanlarla İlgili Detaylı Bilgiler	9
+2.9.	Fonksiyonun İçinde Fonksiyon Oluşturmak	13
+2.10.	Klasik Anonim Fonksiyon Yapısı	14
+2.11.	Anonim Fonksiyon ve Normal Fonksiyon Arasındaki Farklar	16
+2.12.	Modern Fonksiyon Yapısı (Arrow Fonksiyon)	18
+2.13.	Fonksiyonun Çalıştırılma Zamanı Nasıl Ayarlanır?	22
+2.14.	Fonksiyonlar Konusunun Devamı	23
+3.	JavaScript’te Diğer Konular	23
+4.	GIT Versiyon Kontrol Sistemi Nedir?	24
+5.	Chrome DevTools nedir?	24
+6.	ViteJS nedir?	25
+7.	Vue.js’e Giriş	25
+8.	Yararlı Linkler / Kaynaklar	26
 
