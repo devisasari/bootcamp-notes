@@ -1,5 +1,7 @@
 # Protein & Patika.dev Vue.js Bootcamp Notlarım
 
+### GÜNCELLEME: Bootcamp çok yoğun geçtiği için notlarımı düzenleyip paylaşamadım. Bootcamp artık bitmiş olduğu için paylaşmaya devam edeceğim.
+
 ## Giriş
 
 Merhaba ben İsa Sarı. Patika.dev ve Protein tarafından organize edilen Vue.js Bootcamp’ine teknik test ve mülakat sürecinden sonra kabul aldım. Bootcampi düzenleyen Patika.dev ve Protein ekibine teşekkür ederim. Bu doküman serisinde, bu bootcamp boyunca derslerden aldığım notlarımı paylaşacağım. Bu dokümanda bootcampte aldığım notların yanı sıra kendi yaptığım eklemeler de yer alacak. Dokümanda karşılaşılabilecek yanlışlıklar veya eksiklikler tamamen bana aittir. Geribildirim için iletişim kurmaktan çekinmeyin. Mail adresim: dev.isasari@yandex.com. Eğitmenimiz Tolga Eğilmezel. Bootcamp 7 hafta sürecek. Bootcamp’te işlenecek ana konu başlıkları şunlardır:
